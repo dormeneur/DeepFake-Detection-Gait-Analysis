@@ -90,3 +90,5 @@ docs/
 
 .gemini/
 .gsd/
+
+*.zip
